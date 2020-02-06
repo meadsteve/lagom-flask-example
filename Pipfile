@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 flask = "~=1.1"
-lagom = "~=0.6.4"
+lagom = "~=0.6.5"
 
 [requires]
 python_version = "3.7"
