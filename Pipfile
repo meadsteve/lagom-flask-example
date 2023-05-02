@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-flask = "~=1.1"
+flask = "~=2.2"
 lagom = "~=0.6.5"
 
 [requires]
